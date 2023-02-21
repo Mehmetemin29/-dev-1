@@ -8,6 +8,4 @@
 <h2>En sevdiğim film</h2>
 
 <h5>SPİDERMAN</h5>
-<p><em>Genetiği değiştirilmiş bir örümcek tarafından ısırıldıktan sonra, dışlanmış genç dahi Peter Parker, örümcek benzeri insanüstü yetenekler geliştirir ve New York'ta suç ve adaletsizlikle savaşmak için maskeli bir kimliğe bürünür; süreçte kötü Yeşil Cin ile karşı karşıya.</em></p>
-
-</htlm>
+<p>Bir gün okulun çıkardığı bir gezide üzerinde deneyler yapılan bir örümcek tarafından ısırılır. Peter Parker'ın sıradan hayatı baştan aşağı değişecektir. Peter, örümceğin içgüdüsel yeteneklerini kazanacak ve bunu şehrin karanlığında kaybettiği amcasının intikamını almak üzere kullanacaktır.</p>
